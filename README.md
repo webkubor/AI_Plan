@@ -27,7 +27,7 @@ AI_Plan 是一个功能强大的 AI 智能规划平台，旨在提供智能化�
 
 1. **克隆仓库**
 ```bash
-git clone https://github.com/your-username/AI_Plan.git
+git clone https://github.com/webkubor/AI_Plan.git
 cd AI_Plan
 ```
 
@@ -153,7 +153,7 @@ for doc in docs:
 
 ## 👥 维护者
 
-- **Your Name** - *主要开发者* - [GitHub](https://github.com/your-username)
+- **webkubor** - *主要开发者* - [GitHub](https://github.com/webkubor)
 
 ## 🙏 致谢
 
@@ -161,8 +161,8 @@ for doc in docs:
 
 ## 📮 联系方式
 
-- 项目主页: [https://github.com/your-username/AI_Plan](https://github.com/your-username/AI_Plan)
-- 问题反馈: [https://github.com/your-username/AI_Plan/issues](https://github.com/your-username/AI_Plan/issues)
+- 项目主页: [https://github.com/webkubor/AI_Plan](https://github.com/webkubor/AI_Plan)
+- 问题反馈: [https://github.com/webkubor/AI_Plan/issues](https://github.com/webkubor/AI_Plan/issues)
 
 ---
 
